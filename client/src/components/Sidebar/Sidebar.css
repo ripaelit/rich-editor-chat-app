@@ -1,0 +1,31 @@
+.sidebar {
+  background-color: #353f4a;
+  width: 30%;
+  padding: 2%;
+  border-right: 2px solid #47494c;
+}
+
+.sidebar__hide {
+  width: 0;
+  display: none;
+}
+
+.sidebar__room {
+  display: flex;
+  align-items: center;
+  margin-left: 3%;
+  color: white;
+}
+
+.sidebar__active_container {
+  margin-top: 3rem;
+}
+
+.sidebar__active_list {
+  list-style: none;
+}
+
+.sidebar__active_item {
+  font-size: 2rem;
+  margin-top: 1rem;
+}
