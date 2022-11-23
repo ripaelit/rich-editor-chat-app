@@ -1,3 +1,4 @@
+import React from 'react';
 import onlineIcon from '../../assets/img/onlineIcon.png';
 
 import './Sidebar.css';

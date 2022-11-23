@@ -1,3 +1,4 @@
+import React from 'react';
 import './DrawerToggle.css';
 import { ReactComponent as ThreeDashIcon } from '../../../assets/svg/three-dash.svg';
 
